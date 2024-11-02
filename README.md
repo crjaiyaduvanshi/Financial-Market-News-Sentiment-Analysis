@@ -22,7 +22,7 @@ pip install -r requirements.txt
 3. Load the data and run each notebook sequentially.
 
 ## Results
-Our analysis shows a [sample output for correlation coefficient, sample graphs, etc.]. Further details are available in the notebooks.
+Details are available in the notebooks.
 
 ## License
 MIT License
